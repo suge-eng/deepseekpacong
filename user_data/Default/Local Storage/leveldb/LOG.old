@@ -1,0 +1,6 @@
+2026/07/23-18:06:12.103 8290 Reusing MANIFEST D:\deepseek_screen\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/23-18:06:12.106 8290 Recovering log #4
+2026/07/23-18:06:12.110 8290 Reusing old log D:\deepseek_screen\user_data\Default\Local Storage\leveldb/000004.log 
+2026/07/23-18:06:49.601 9f98 Level-0 table #8: started
+2026/07/23-18:06:49.606 9f98 Level-0 table #8: 17433 bytes OK
+2026/07/23-18:06:49.609 9f98 Delete type=0 #4
