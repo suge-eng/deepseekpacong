@@ -1,5 +1,9 @@
 # 浏览器配置和缓存
 edge_profile/
+user_data/
+
+# 日志目录
+logs/
 
 # 截图
 screenshots/
